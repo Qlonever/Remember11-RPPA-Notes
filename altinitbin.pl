@@ -4744,7 +4744,7 @@ MAKE_BASE_DATA
         MAKE_STRING_TABLE
           (
             MAKE_ESCAPED("Client"),
-            "In a system consisting of two or more interconnected computers, the client is a terminal that receives commands from the host computer. "
+            "In a network of two or more interconnected computers, the client is a terminal that receives commands from the host computer. "
           ),
         MAKE_STRING_TABLE
           (
@@ -5031,7 +5031,7 @@ MAKE_BASE_DATA
             MAKE_ESCAPED("EPR Paper"),
             "A paper published by Einstein, Podolsky, and Rosen. Also known as the EPR Paradox.%N%NIt presents a thought experiment that is extremely critical of quantum mechanics, and was originally published by Einstein and his coauthors as an attack on it. Ironically, it ended up having the opposite effect, and became the best material for deepening one's understanding of the field.",
             "The details of the experiment are as follows:%N%NAccording to quantum theory, when two particles are created at some location by the same event, they share a certain kind of state.%N%NFor example, a stationary π-meson decays into two photons in opposite directions, but both members of the photon pair are represented with a single Schrödinger equation.",
-            "Quantum theory states that as long as they aren't observed, the particles can be expressed by the same equation forever. So even if one of them flies a long distance away, if you observe some information about it——such as spin or polarization——then you should know the state of the particle that remained behind.%NBut at the moment that you observe one particle,the wave function of the other particle collapses accordingly, appearing as if the measured information has been instantly transmitted from one to the other.",
+            "Quantum theory states that as long as they aren't observed, the particles can be expressed by the same equation forever. So even if one of them flies a long distance away, if you observe some information about it——such as spin or polarization——then you should know the state of the particle that remained behind.%NBut at the moment that you observe one particle, the wave function of the other particle collapses accordingly, appearing as if the measured information has been instantly transmitted from one to the other.",
             "However, modern quantum mechanics has successfully come up with a proper explanation, and experimental results that support it have been published one after another. "
           ),
         MAKE_STRING_TABLE
@@ -5064,7 +5064,7 @@ MAKE_BASE_DATA
         MAKE_STRING_TABLE
           (
             MAKE_ESCAPED("Bell Measurement"),
-            "A method of placing an isolated pair of particles in an entangled state and then observing both of them at the same time in a way that doesn't permit them to be distinguished from each other (in order to maintain the entanglement).%N%NSince the particles must be passed through a beam splitter (such as a half-silvered mirror) at exactly the same time,this is extremely difficult in practice. "
+            "A method of placing an isolated pair of particles in an entangled state and then observing both of them at the same time in a way that doesn't permit them to be distinguished from each other (in order to maintain the entanglement).%N%NSince the particles must be passed through a beam splitter (such as a half-silvered mirror) at exactly the same time, this is extremely difficult in practice. "
           ),
         MAKE_STRING_TABLE
           (
@@ -5122,7 +5122,7 @@ MAKE_BASE_DATA
             "Before looking at the many-worlds interpretation, we'll try thinking about how standard quantum mechanics currently explains the world.%N%NFor example, consider a single electron. Before you perform the act of observing that it exists in a particular location, its existence is spread out in a probabilistic way due to uncertainty.%NUntil it is actually observed, its existence is described by assigning a probability to all of the places where it could possibly exist.",
             "In this state, we call it an \"electron cloud\".%N%NNow, suppose you were to use some method to observe the electron.%N%NAt that moment, assuming that the electron's position was determined, the previously spread-out cloud would immediately gather at that single observed point (likewise for momentum).",
             "This is called a \"wave function collapse\"; it basically means that the act of observing the electron, which was previously viewed as a probability distribution, renders its fixed existence as a real phenomenon.%N%NThis explanation is known as the \"Copenhagen interpretation\" and is considered mainstream in modern quantum mechanics.%N%NNow then, what about the rivaling Many-Worlds Interpretation?",
-            "It agrees with the Copenhagen interpretation on the treatment of the electron's existence as a probability distribution.\"%N%NThe question is, what happens after the moment the electron is observed? Under the Many-Worlds Interpretation, the probability distribution is considered to be maintained regardless of whether the electron is observed or not. But what does that mean?%N%NFor example, when an observer confirms that the",
+            "It agrees with the Copenhagen interpretation on the treatment of the electron's existence as a probability distribution.%N%NThe question is, what happens after the moment the electron is observed? Under the Many-Worlds Interpretation, the probability distribution is considered to be maintained regardless of whether the electron is observed or not. But what does that mean?%N%NFor example, when an observer confirms that the",
             "electron is in a particular position, the other possibilities don't just disappear.%NInstead, they actually persist in other worlds the observer can't perceive. It's not such a ridiculous idea. Isn't it because we can't perceive them in our world that we say \"they don't exist\"?%N%NCertainly, if an observer observes that a possibility doesn't exist, then it doesn't exist in his world. However, it does exist in the worlds of observers other than that one.",
             "In other words, under the Many-Worlds Interpretation, even the observers are explained probabilistically (the wave function does not only consist of the target of observation, but also the observer's entire space-time).%N%NThat means that every possibility which has a non-zero probability exists at the same time.%N%NEvery possible world advances simultaneously, which can be interpreted as truly \"many-worlds\".",
             "If you think about it, the main point is this:%Nobservers and observed things are made from the same substance to begin with. There's no reason whatsoever for an interpretation to distinguish between the two.%N%NSomeone who dislikes the idea of a person receiving special treatment might find the Many-Worlds Interpretation easy to warm up to.%NIt gives the impression that it was originally created for the purpose of explaining why waves should suddenly collapse at the moment of observation.",
@@ -5170,7 +5170,7 @@ MAKE_BASE_DATA
             "2. Infinity Series%N%N".
             "2000．%X0593．23　%X107infinity%N".
             "2000．%X05411．23　%X107infinity ～Cure～%N".
-            "2000．12．21　%X107Never7 -the end of infinity-%N".
+            "2000．%X05412．21　%X107Never7 -the end of infinity-%N".
             "2002．%X0598．29 %X107Ever17 -the out of infinity-%N".
             "2004．%X0593．18　%X107Remember11 -the age of infinity-%N".
             "...and%N%N".
