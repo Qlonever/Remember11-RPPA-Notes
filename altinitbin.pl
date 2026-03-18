@@ -4703,7 +4703,7 @@ MAKE_BASE_DATA
             "As for the revised cloning law...%NFor it to have been struck down by public opinion rallied simply for the sake of the happiness of one small boy, perhaps it truly was a law that stood in opposition to human kindness.%N%NHowever, even after the amendment of the law, a large problem still remained.%NCloned people faced opposition and discrimination.%NAs previously stated, the unnatural nature of their birth and existence led many to be shunned.",
             "Since the clones' genetic information was perfectly identical to that of their nucleoplasm provider (\"genome mother\" or \"original\"), they were mockingly referred to as \"copies of the original\".%N%N(However, strictly speaking, this belief is mistaken. At the time of a clone's creation, he or she inherits the mitochondria of the woman who provided the unfertilized egg (\"host mother\"). Since the genome mother and host mother are two different people, the clone cannot be said to be an exact replica of the original.)",
             "In order to solve these problems moving forward, perhaps humanity will need to deepen their understanding of genetic engineering with time.%N%NUntil then, clones and their supporters can only keep on hoping, believing that the day will surely come when clones can live without fear...",
-            "Finally, we shall introduce a certain person who had a global influence in the field of genetic engineering.%N%NHe is Japan's Doctor Morino Shigezou.%N%NSince the latter part of the 20th Century, Doctor Morino has taken part in the international Human Genome Project, where he had been credited with the discovery of a groundbreaking method for analyzing the sequence of DNA. Furthermore, the doctor himself is known to have created human clones.",
+            "Finally, we shall introduce a certain person who had a global influence in the field of genetic engineering.%N%NHe is Japan's Doctor Morino Shigezo.%N%NSince the latter part of the 20th Century, Doctor Morino has taken part in the international Human Genome Project, where he had been credited with the discovery of a groundbreaking method for analyzing the sequence of DNA. Furthermore, the doctor himself is known to have created human clones.",
             "However, there are opinions as to exactly what number of successfully produced clones his achievements amount to (if any at all), and the truth remains uncertain. "
           ),
         MAKE_STRING_TABLE
@@ -5013,7 +5013,7 @@ MAKE_BASE_DATA
         MAKE_STRING_TABLE
           (
             MAKE_ESCAPED("Wave Function"),
-            "From the square of its absolute value, it can give the existence probability of a particle.%NIn this sense, the wave function is referred to as the probability amplitude. "
+            "The wave function is a function of space coordinates and time that describes the current state of a particle.%NIt satisfies the Schrödinger equation and possibly the Dirac equation, and proves the wave property of quantum particles.%NFrom the square of its absolute value, it can give the existence probability of a particle.%NIn this sense, the wave function is referred to as the probability amplitude. "
           ),
         MAKE_STRING_TABLE
           (
@@ -5032,7 +5032,7 @@ MAKE_BASE_DATA
             "A paper published by Einstein, Podolsky, and Rosen. Also known as the EPR Paradox.%N%NIt presents a thought experiment that is extremely critical of quantum mechanics, and was originally published by Einstein and his coauthors as an attack on it. Ironically, it ended up having the opposite effect, and became the best material for deepening one's understanding of the field.",
             "The details of the experiment are as follows:%N%NAccording to quantum theory, when two particles are created at some location by the same event, they share a certain kind of state.%N%NFor example, a stationary π-meson decays into two photons in opposite directions, but both members of the photon pair are represented with a single Schrödinger equation.",
             "Quantum theory states that as long as they aren't observed, the particles can be expressed by the same equation forever. So even if one of them flies a long distance away, if you observe some information about it——such as spin or polarization——then you should know the state of the particle that remained behind.%NBut at the moment that you observe one particle, the wave function of the other particle collapses accordingly, appearing as if the measured information has been instantly transmitted from one to the other.",
-            "However, modern quantum mechanics has successfully come up with a proper explanation, and experimental results that support it have been published one after another. "
+            "The EPR paper argues that this is a violation of causality.%NHowever, modern quantum mechanics has successfully come up with a proper explanation, and experimental results that support it have been published one after another. "
           ),
         MAKE_STRING_TABLE
           (
